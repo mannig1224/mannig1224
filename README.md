@@ -5,3 +5,5 @@
 🌟 With more than five years of software development experience, I have developed strong creative problem-solving skills, resource management skills, and communication skills. I am interested in combining those skills with web technologies to help build engaging and cutting-edge projects.
 
 🪨 If I'm not programming, I'm likely rock-climbing and bouldering (v7, 11c), doing some sort of physical activity (lifting, pickleball), or video games (Pokémon Apex or anything Nintendo).
+
+Note: Engaged in extensive proprietary coding projects. GitHub may not fully showcase my work. For inquiries, feel free to reach out. 🌐💻
